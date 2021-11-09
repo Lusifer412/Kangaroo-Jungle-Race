@@ -1,1 +1,1 @@
-# Kangaroo-Jungle-Race
+# project-template-kangaroo-2
